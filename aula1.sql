@@ -1,7 +1,7 @@
 SELECT * FROM aluno;
 
 SELECT nome as nome_do_aluno,
-	   cpf as "CPF"
+ 	cpf as "CPF"
 FROM aluno;
 
 INSERT INTO aluno (nome) VALUES ('Ronan Lynch');
